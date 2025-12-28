@@ -1,0 +1,13 @@
+pandas>=2.2.2,<2.3
+numpy>=1.26,<2.0
+yfinance>=0.2.54,<0.3
+requests>=2.32,<3
+ta>=0.11,<0.12
+scipy>=1.11,<1.12
+vaderSentiment>=3.3.2,<3.4
+streamlit>=1.40,<1.50
+python-dateutil>=2.9,<2.10
+pytz>=2024.1
+certifi>=2024.8
+urllib3>=2.2,<3
+curl_cffi>=0.7
